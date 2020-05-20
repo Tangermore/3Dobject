@@ -1,0 +1,173 @@
+body{
+    background-color: rgb(17, 0, 90);
+    height: 1000px;
+}
+
+.p{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+a{
+    text-decoration: none;
+}
+header{
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 80px;
+    padding: 30px;
+    color: white;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    border: none;
+    border-radius: 30px;
+    background: linear-gradient(to bottom, rgb(63, 152, 253), rgb(55, 0, 255));
+    margin: 5px;
+}
+
+main{
+    height: 100%;
+    font-size: 50px;
+    color: white;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+footer{
+    background-color: rgb(0,0,0);
+    font-size: 15px;
+    border-radius: 20px;
+    color: rgb(173, 173, 173);
+    padding: 30px;
+    margin: 5px;
+}
+
+.section1{
+    background: linear-gradient(to bottom, rgb(30, 14, 255), rgb(0,0,0));
+    height: 98%;
+    width: 83%;
+    position: relative; 
+    margin: 5px;
+    border-radius: 20px;
+    text-align: left;
+    padding: none;
+    float: right;
+    display: inline-block;
+}
+
+nav{
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(to bottom, rgb(0, 183, 255), rgb(0, 255, 85));
+    width: 50%;
+    height: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    color: white;
+}
+
+.section2{
+    float: left;
+    width: 15%;
+    margin-top: 6px;
+    margin-left: 5px;
+    position: relative;
+    border: dashed;
+    background: none;
+    display: inline-block;
+    font-size: 20px;
+    height: 67%;
+    text-align: center;
+    padding-top: 305px;
+    border-color: rgb(58, 58, 58);
+    color: rgb(121, 121, 121);
+    border-radius: 20px;
+    
+}
+
+.div_stroka{
+    height: 265px;
+    border: none;
+    width: 91%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 45px;
+
+}
+
+.div1{
+    float: left;
+    text-align: center;
+    width: 30%;
+    height: 100%;
+    border: none;
+    font-size: 25px;
+    border-radius: 15px;
+    background: linear-gradient(to bottom, rgb(0, 153, 255), rgb(140, 0, 255));
+}
+
+.div2{
+    float: left;
+    text-align: center;
+    width: 30%;
+    height: 100%;
+    border: none;
+    margin-left: 45px;
+    font-size: 25px;
+    border-radius: 15px;
+    background: linear-gradient(to bottom, rgb(0, 153, 255), rgb(140, 0, 255));
+}
+
+.div3{
+    float: right;
+    text-align: center;
+    width: 30%;
+    height: 100%;
+    border: none;
+    font-size: 25px;
+    border-radius: 15px;
+    background: linear-gradient(to bottom, rgb(0, 153, 255), rgb(140, 0, 255));
+}  
+
+img{
+    width: 80%;
+    height: 65%;
+    border-radius: 15px;
+}
+
+.aside{
+    border: dashed;
+    width: 15%;
+    font-size: 20px;
+}
+
+.download{
+    width: 70%;
+    height: 13%;
+    background: linear-gradient(to bottom,  rgb(2, 223, 13), rgb(1, 177, 16));
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3px;
+    padding-top: 2px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.back{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 30px;
+    border: 1px solid;
+    border-color: white;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: rgb(43, 135, 255);
+    font-size: 40px;
+    padding-top: 2px;
+    padding-right: 3px;
+    color: white;
+}
